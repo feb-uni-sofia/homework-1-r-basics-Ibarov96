@@ -29,5 +29,6 @@ seq(7,21, by=1)
 7:21
 
 # h)
+## NOTE: by = 1 is the default
 lseq <- seq(7,21, by=1)
 length(lseq)
